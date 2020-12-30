@@ -6,7 +6,7 @@ Note: hg38 is not valid now.
 
 ## Blacklist
 
-From [here](https://github.com/Boyle-Lab/Blacklist).
+From [Boyle-Lab](https://github.com/Boyle-Lab/Blacklist).
 
 ## ChromSizes
 
@@ -38,6 +38,6 @@ refFlat annotation from UCSC.
 
 ## access-5kb-mappable file
 
-For [cnvkit](https://cnvkit.readthedocs.io/en/v0.7.3/nonhybrid.html).
+From [cnvkit](https://cnvkit.readthedocs.io/en/v0.7.3/nonhybrid.html).
 
 
